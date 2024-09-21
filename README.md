@@ -1,12 +1,12 @@
-<div align="center"> ## 👋 Hello World! I'm Calvin 👋 </div>
-
+<div align="center">  👋 Hello World! I'm Calvin 👋 </div>
+<hr>
 
 <div align="center">
   <a href="https://drive.google.com/file/d/1acZuTBk2YwLoX2pbnp2f1o5UWOjqIshl/view?usp=drive_link">View My Resume</a> | 
   <a href="https://www.linkedin.com/in/calvin-berndt">Connect with me on LinkedIn</a>
 </div>
 
-<div align="center"> ### Languages and Tools: </div>
+<div align="center"> Languages and Tools: </div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
