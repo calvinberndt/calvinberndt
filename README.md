@@ -1,4 +1,6 @@
 ## 👋 Hello World! I'm Calvin 👋
+[View My Resume] (https://drive.google.com/file/d/1acZuTBk2YwLoX2pbnp2f1o5UWOjqIshl/view?usp=drive_link)
+[Connect with me on LinkedIn](www.linkedin.com/in/calvin-berndt)
 
 ### Languages and Tools:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
