@@ -1,8 +1,5 @@
-<head>
-<meta name="google-site-verification" content="KcyMrGZ8VTu37gPn_8hx-r7WDlOyr5g88UcuGBjI8OQ" />
-</head>
 
-<div align="center">  👋 Hello World! I'm Calvin 👋 </div>
+<div align="center">  👋 Hello World! I'm Calvin Berndt👋 </div>
 <hr>
 
 <div align="center">
