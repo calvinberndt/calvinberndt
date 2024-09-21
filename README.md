@@ -2,7 +2,7 @@
 <hr>
 
 <div align="center">
-  <a href="https://drive.google.com/file/d/1acZuTBk2YwLoX2pbnp2f1o5UWOjqIshl/view?usp=drive_link"> My Resume</a> | 
+  <a href="https://drive.google.com/file/d/17P5oSK63Z5Nxuq0XlzkAdwRAGZo0VQ3j/view?usp=sharing"> My Resume</a> | 
   <a href="https://www.linkedin.com/in/calvin-berndt">Connect on LinkedIn</a>
 </div>
 <br>
