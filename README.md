@@ -2,8 +2,8 @@
 <hr>
 
 <div align="center">
-  <a href="https://drive.google.com/file/d/17P5oSK63Z5Nxuq0XlzkAdwRAGZo0VQ3j/view?usp=sharing" target="_blank"> My Resume</a> | 
-  <a href="https://www.linkedin.com/in/calvin-berndt" target="_blank">Connect on LinkedIn</a>
+  <a href="https://drive.google.com/file/d/17P5oSK63Z5Nxuq0XlzkAdwRAGZo0VQ3j/view?usp=sharing"> My Resume</a> | 
+  <a href="https://www.linkedin.com/in/calvin-berndt">Connect on LinkedIn</a>
 </div>
 <br>
 <div align="center"> Languages </div>
