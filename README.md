@@ -21,7 +21,6 @@
 
 <div align="center">
   <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="Coder GIF"/>
-  file:///Users/calvinberndt/Downloads/googleddad9c6d1cf4ace5.html
 </div>
 
 
