@@ -1,5 +1,6 @@
-<meta name="google-site-verification" content="file:///Users/calvinberndt/Downloads/googleddad9c6d1cf4ace5%20.html" />
-
+<head>
+<meta name="google-site-verification" content="KcyMrGZ8VTu37gPn_8hx-r7WDlOyr5g88UcuGBjI8OQ" />
+</head>
 
 <div align="center">  👋 Hello World! I'm Calvin 👋 </div>
 <hr>
