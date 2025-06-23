@@ -21,7 +21,7 @@
 </div>
 
 <div align="center">
-  <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="Coder GIF"/>
+  <img src="CalvinBerndtreadme.gif" width="640" alt="Coding outdoors animated GIF"/>
 </div>
 
 
