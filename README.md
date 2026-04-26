@@ -3,7 +3,7 @@
 <hr>
 
 <div align="center">
-  <a href="https://calvinberndt.software/"> My Resume</a> | 
+  <a href="https://calvinberndt.com/"> My Resume</a> | 
   <a href="https://www.linkedin.com/in/calvin-berndt">Connect on LinkedIn</a>
 </div>
 <br>
