@@ -18,7 +18,7 @@ At **AnSer**, I build and operate systems that transcribe and analyze calls, ext
 
 I like the part after the demo: noisy audio, latency, incomplete context, and figuring out what happened when the system gets something wrong.
 
-Most of my production work is private. I describe the engineering problems here without publishing customer details or internal implementation.
+Most of my production work is private, so I describe the engineering problems here without publishing customer details or internal implementation.
 
 ## Tools I use
 
