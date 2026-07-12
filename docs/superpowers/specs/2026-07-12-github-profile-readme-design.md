@@ -1,7 +1,7 @@
 # GitHub Profile README Revamp Design
 
 **Date:** 2026-07-12
-**Status:** Approved direction; awaiting written-spec review
+**Status:** Approved for implementation
 
 ## Objective
 
@@ -92,36 +92,14 @@ featured. Java, C#, C++, HTML, and CSS can remain represented as background
 skills, but they should not receive the same prominence as current AI and
 systems work.
 
-### 5. Selected Work
-
-Feature three to five items. Each item should include:
-
-- Project or system name
-- Public, private, or professional label
-- One-sentence problem statement
-- One concise implementation or outcome detail
-- Link only when a safe public destination exists
-
-Candidate areas include AnSer voice/AI engineering, transcription tooling,
-machine-learning studies, voice-agent prototypes, RAG chatbot work, and
-production web or developer-tooling systems. Final selections will favor depth,
-recency, and relevance to the profile title.
-
-### 6. Technical Toolkit
+### 5. Technical Toolkit
 
 Use a restrained set of categorized badges or inline technology names. The
 toolkit should support the narrative above, not repeat it. Avoid activity
 widgets, trophy counters, skill percentages, and other automatically generated
 metrics that add visual noise without demonstrating engineering judgment.
 
-### 7. Currently Exploring
-
-Include a short, maintainable list reflecting active areas such as local model
-workflows, agent tooling, evaluation, production voice systems, and reliable AI
-infrastructure. Phrase these as current learning or exploration rather than
-completed expertise.
-
-### 8. Contact
+### 6. Contact
 
 Close with concise links to the personal site and LinkedIn. Do not expose a
 personal email address in the README unless Calvin explicitly requests it.
@@ -134,7 +112,7 @@ The visual hierarchy will remain lightweight and GitHub-native:
 2. Contact links
 3. Existing GIF
 4. Evidence-based technical sections
-5. Curated toolkit and current interests
+5. Curated toolkit and contact links
 
 HTML alignment may be retained around the header, links, GIF, and badges where
 GitHub Markdown does not provide equivalent control. Content sections should use
