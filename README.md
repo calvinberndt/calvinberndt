@@ -4,7 +4,7 @@
 
 ### Applied AI Systems Engineer
 
-I build voice, audio, and real-time AI systems—from telephony and data pipelines to intelligent agents and production infrastructure.
+I build voice, audio, and real-time AI systems; from telephony and data pipelines to intelligent agents and production infrastructure.
 
 [Website](https://calvinberndt.com/) · [LinkedIn](https://www.linkedin.com/in/calvin-berndt)
 
