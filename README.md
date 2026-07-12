@@ -14,15 +14,15 @@ I build voice and communications systems with applied AI. My work covers telepho
 
 ## What I work on
 
-At **AnSer**, I build and operate systems that transcribe and analyze calls, extract structured data, support retrieval-backed assistants, and evaluate agent interactions.
+At **AnSer**, I build full-stack voice agents with LiveKit. The AI cascade includes telephony and real-time audio, speech-to-text, LLM and tool orchestration, retrieval, text-to-speech, and evaluation. I build the product interfaces and production infrastructure around that pipeline too.
+
+I also work on call analysis, structured extraction, context-aware assistants, and automated QA for agent interactions.
 
 I like the part after the demo: noisy audio, latency, incomplete context, and figuring out what happened when the system gets something wrong.
 
-Most of my production work is private, so I describe the engineering problems here without publishing customer details or internal implementation.
-
 ## Tools I use
 
-I spend most of my time in Python and TypeScript. My usual stack includes PostgreSQL, pgvector, React, Next.js, Docker, and Linux. Voice projects bring in LiveKit, SIP/VoIP, speech-to-text, and audio-processing pipelines.
+I spend most of my time in Python and TypeScript. My usual stack includes PostgreSQL, pgvector, React, Next.js, Docker, and Linux.
 
 <div align="center">
 
