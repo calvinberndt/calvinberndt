@@ -4,39 +4,25 @@
 
 ### Applied AI Systems Engineer
 
-I build voice, audio, and real-time AI systems; from telephony and data pipelines to intelligent agents and production infrastructure.
+I build voice and communications systems with applied AI. My work covers telephony, transcription, data pipelines, agents, and the infrastructure around them.
 
 [Website](https://calvinberndt.com/) · [LinkedIn](https://www.linkedin.com/in/calvin-berndt)
 
-<img src="CalvinBerndtreadme.gif" width="640" alt="Coding outdoors animated GIF" />
+<img src="CalvinBerndtreadme.gif" width="640" alt="Animated illustration of Calvin coding outdoors" />
 
 </div>
 
-## About Me
+## What I work on
 
-I'm a software engineer focused on turning AI capabilities into dependable systems. My work spans the full path from audio and communications infrastructure through data processing, retrieval, agent orchestration, evaluation, and user-facing applications.
+At **AnSer**, I build and operate systems that transcribe and analyze calls, extract structured data, support retrieval-backed assistants, and evaluate agent interactions.
 
-I enjoy the engineering between a promising model demo and a system people can actually operate: understanding constraints, connecting the right components, measuring behavior, and making the result observable and maintainable.
+I like the part after the demo: noisy audio, latency, incomplete context, and figuring out what happened when the system gets something wrong.
 
-## At AnSer
+Most of my production work is private, so I describe the engineering problems here without publishing customer details or internal implementation.
 
-At **AnSer**, I work at the intersection of applied AI, communications infrastructure, and software engineering. My work includes:
+## Tools I use
 
-- Voice and call-analysis workflows grounded in real telephony and audio constraints
-- Transcription, diarization, speaker processing, and structured extraction pipelines
-- Retrieval-augmented assistants and context-aware AI interfaces
-- Automated QA and evaluation systems for analyzing agent interactions
-- Real-time data flows and supporting infrastructure for production AI applications
-
-## Engineering Focus
-
-- **Applied AI & Agents** — LLM applications, RAG, tool use, agent workflows, prompt design, and evaluation
-- **Voice, Audio & Telephony** — speech-to-text, audio processing, real-time media, LiveKit, and SIP/VoIP systems
-- **Data & Retrieval** — Python pipelines, PostgreSQL, pgvector, embeddings, event-driven processing, and data validation
-- **Product Engineering** — TypeScript, React, Next.js, APIs, dashboards, and embeddable interfaces
-- **Infrastructure & Delivery** — Linux services, Docker, cloud deployment, observability, browser QA, and reproducible developer tooling
-
-## Technical Toolkit
+I spend most of my time in Python and TypeScript. My usual stack includes PostgreSQL, pgvector, React, Next.js, Docker, and Linux. Voice projects bring in LiveKit, SIP/VoIP, speech-to-text, and audio-processing pipelines.
 
 <div align="center">
 
@@ -51,12 +37,7 @@ At **AnSer**, I work at the intersection of applied AI, communications infrastru
 
 </div>
 
-Additional experience includes JavaScript, Java, C#, C++, HTML, CSS, machine learning workflows, cloud platforms, and developer automation.
-
-## Contact
-
-- [calvinberndt.com](https://calvinberndt.com/)
-- [LinkedIn](https://www.linkedin.com/in/calvin-berndt)
+I also have experience with JavaScript, Java, C#, C++, HTML, CSS, machine learning workflows, cloud platforms, and developer automation.
 
 <!--
 **calvinberndt/calvinberndt** is a special repository because its README.md appears on the GitHub profile.
